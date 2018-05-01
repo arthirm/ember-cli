@@ -99,6 +99,7 @@
     "lodash.template": "^4.2.5",
     "markdown-it": "^8.3.0",
     "markdown-it-terminal": "0.1.0",
+    "md5-hex": "2.0.0",
     "minimatch": "^3.0.0",
     "morgan": "^1.8.1",
     "node-modules-path": "^1.0.0",
